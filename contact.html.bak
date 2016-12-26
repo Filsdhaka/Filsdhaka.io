@@ -1,0 +1,21 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+ <HEAD>
+  <TITLE> Contact Us </TITLE>
+  <META NAME="Generator" CONTENT="EditPlus">
+  <META NAME="Author" CONTENT="">
+  <META NAME="Keywords" CONTENT="">
+  <META NAME="Description" CONTENT="">
+ </HEAD>
+
+ <BODY background="bo.png">
+ <table border='1'>
+ <tr><td  height='20' width='80'>Enter Names</td><td height='20' width='80'><input type="text" name="full_name"  placeholder="enter your full name here!"></td></tr>
+ <tr><td  height='20' width='80'>Enter your Email</td><td height='20' width='80' ><input type="text" name="email" placeholder="enter your Email here!"></td></tr>
+  <tr><td  height='20' width='80'>Type your Message</td><td height='20' width='80' ><textarea ></textarea></td></tr>
+  <tr><td><input type="submit" value="Send"></td><td><input type='RESET' value='RESET' name='reset'></td></tr>
+
+
+  
+ </BODY>
+</HTML>
